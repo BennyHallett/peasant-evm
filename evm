@@ -1,0 +1,3 @@
+#! /bin/bash
+rm /opt/elixir/current
+ln -s /opt/elixir/$1 /opt/elixir/current
